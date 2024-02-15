@@ -1,0 +1,217 @@
+"","OldID","sample_type","meat_type","specific_sample_type","treatment","pool_timepoint","participant_id","weeks_in_pool","arm","blinded_treatment","treatment_order","ShortID","Habitating","Co.Habitating","Trial","Combined_order","Week"
+"HFTR.TE.CG12_S208","HFTR-CG12_S208","Meat Rinsate","Ground Beef","Ground Beef","Conventional","12",NA,"2","2",NA,NA,"CG12","","","Conventional Beef",NA,NA
+"HFTR.TE.CG16_S224","HFTR-CG16_S224","Meat Rinsate","Ground Beef","Ground Beef","Conventional","16",NA,"2","2",NA,NA,"CG16","","","Conventional Beef",NA,NA
+"HFTF.TE.129D_S134","HFTF-129D_S134","Fecal",NA,"Fecal",NA,"D","129","2","3","D","BA","129D","","",NA,"Start_RWA"," 1"
+"HFTF.TE.122D_S99","HFTF-122D_S99","Fecal",NA,"Fecal",NA,"D","122","2","3","D","AB","122D","","",NA,"Start_CONV"," 1"
+"HFTF.TE.117C_S78","HFTF-117C_S78","Fecal",NA,"Fecal",NA,"C","117","2","1","A","AB","117C","Shared","Shared_1","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.108D_S43","HFTF-108D_S43","Fecal",NA,"Fecal",NA,"D","108","2","1","A","AB","108D","Control","",NA,"Start_CONV"," 1"
+"HFTR.TE.CS7_S186","HFTR-CS7_S186","Meat Rinsate","Sirloin","Sirloin","Conventional","7",NA,"2","1",NA,NA,"CS7","","","Conventional Beef",NA,NA
+"HFTF.TE.105G_S32","HFTF-105G_S32","Fecal",NA,"Fecal",NA,"G","105","2","2","B","AB","105G","Shared","Shared_2",NA,"Final_washout"," 4"
+"HFTR.TE.RG1_S165","HFTR-RG1_S165","Meat Rinsate","Ground Beef","Ground Beef","RWA","1",NA,"2","1",NA,NA,"RG1","","","RWA Beef",NA,NA
+"HFTF.TE.110G_S53","HFTF-110G_S53","Fecal",NA,"Fecal",NA,"G","110","2","2","A","BA","110G","","",NA,"Final_washout"," 4"
+"HFTR.TE.RG16_S223","HFTR-RG16_S223","Meat Rinsate","Ground Beef","Ground Beef","RWA","16",NA,"2","2",NA,NA,"RG16","","","RWA Beef",NA,NA
+"HFTF.TE.102D_S8","HFTF-102D_S8","Fecal",NA,"Fecal",NA,"D","102","2","3","D","AB","102D","","",NA,"Start_CONV"," 1"
+"HFTR.TE.CT14_S214","HFTR-CT14_S214","Meat Rinsate","Sirloin","Tloin","Conventional","14",NA,"2","2",NA,NA,"CT14","","","Conventional Beef",NA,NA
+"HFTF.TE.129A_S131","HFTF-129A_S131","Fecal",NA,"Fecal",NA,"A","129","2","1","B","BA","129A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.122A_S96","HFTF-122A_S96","Fecal",NA,"Fecal",NA,"A","121","2","2","A","BA","122A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.108A_S40","HFTF-108A_S40","Fecal",NA,"Fecal",NA,"A","108","2","2","B","AB","108A","","",NA,"Start_RWA"," 1"
+"HFTR.TE.RS7_S188","HFTR-RS7_S188","Meat Rinsate","Sirloin","Sirloin","RWA","7",NA,"2","1",NA,NA,"RS7","","","RWA Beef",NA,NA
+"HFTR.TE.RT13_S213","HFTR-RT13_S213","Meat Rinsate","Sirloin","Tloin","RWA","13",NA,"2","2",NA,NA,"RT13","","","RWA Beef",NA,NA
+"HFTR.TE.CG13_S212","HFTR-CG13_S212","Meat Rinsate","Ground Beef","Ground Beef","Conventional","13",NA,"2","2",NA,NA,"CG13","","","Conventional Beef",NA,NA
+"HFTF.TE.102C_S7","HFTF-102C_S7","Fecal",NA,"Fecal",NA,"C","102","2","1","A","AB","102C","","","RWA Fecal","End_RWA"," 3"
+"HFTR.TE.RT16_S225","HFTR-RT16_S225","Meat Rinsate","Sirloin","Tloin","RWA","16",NA,"2","2",NA,NA,"RT16","","","RWA Beef",NA,NA
+"HFTF.TE.114D_S68","HFTF-114D_S68","Fecal",NA,"Fecal",NA,"D","114","2","3","D","BA","114D","","",NA,"Start_RWA"," 1"
+"HFTF.TE.113A_S61","HFTF-113A_S61","Fecal",NA,"Fecal",NA,"A","113","2","1","B","BA","113A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.122F_S101","HFTF-122F_S101","Fecal",NA,"Fecal",NA,"F","122","2","2","B","AB","122F","","","Conventional Fecal","End_CONV"," 3"
+"HFTR.TE.CG8_S191","HFTR-CG8_S191","Meat Rinsate","Ground Beef","Ground Beef","Conventional","8",NA,"2","1",NA,NA,"CG8","","","Conventional Beef",NA,NA
+"HFTF.TE.130D_S141","HFTF-130D_S141","Fecal",NA,"Fecal",NA,"D","130","2","3","D","BA","130D","Control","",NA,"Start_RWA"," 1"
+"HFTF.TE.120C_S84","HFTF-120C_S84","Fecal",NA,"Fecal",NA,"C","120","2","1","B","BA","120C","","","Conventional Fecal","End_CONV"," 3"
+"HFTR.TE.RT12_S209","HFTR-RT12_S209","Meat Rinsate","Sirloin","Tloin","RWA","12",NA,"2","2",NA,NA,"RT12","","","RWA Beef",NA,NA
+"HFTR.TE.RS3_S172","HFTR-RS3_S172","Meat Rinsate","Sirloin","Sirloin","RWA","3",NA,"2","1",NA,NA,"RS3","","","RWA Beef",NA,NA
+"HFTF.TE.122B_S97","HFTF-122B_S97","Fecal",NA,"Fecal",NA,"B","121","2","2","A","BA","122B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.105B_S27","HFTF-105B_S27","Fecal",NA,"Fecal",NA,"B","105","2","1","A","AB","105B","Shared","Shared_2","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.124E_S114","HFTF-124E_S114","Fecal",NA,"Fecal",NA,"E","124","2","2","B","AB","124E","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.110F_S52","HFTF-110F_S52","Fecal",NA,"Fecal",NA,"F","110","2","2","A","BA","110F","","","RWA Fecal","End_RWA"," 3"
+"HFTR.TE.RG11_S205","HFTR-RG11_S205","Meat Rinsate","Ground Beef","Ground Beef","RWA","11",NA,"2","2",NA,NA,"RG11","","","RWA Beef",NA,NA
+"HFTF.TE.132G_S151","HFTF-132G_S151","Fecal",NA,"Fecal",NA,"G","132","2","2","A","BA","132G","","",NA,"Final_washout"," 4"
+"HFTF.TE.120A_S82","HFTF-120A_S82","Fecal",NA,"Fecal",NA,"A","120","2","1","B","BA","120A","Shared","Shared_1",NA,"Start_CONV"," 1"
+"HFTF.TE.133C_S154","HFTF-133C_S154","Fecal",NA,"Fecal",NA,"C","133","2","1","B","BA","133C","","","Conventional Fecal","End_CONV"," 3"
+"HFTR.TE.RG14_S215","HFTR-RG14_S215","Meat Rinsate","Ground Beef","Ground Beef","RWA","14",NA,"2","2",NA,NA,"RG14","","","RWA Beef",NA,NA
+"HFTF.TE.113B_S62","HFTF-113B_S62","Fecal",NA,"Fecal",NA,"B","113","2","1","B","BA","113B","Control","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTR.TE.RG13_S211","HFTR-RG13_S211","Meat Rinsate","Ground Beef","Ground Beef","RWA","13",NA,"2","2",NA,NA,"RG13","","","RWA Beef",NA,NA
+"HFTF.TE.124A_S110","HFTF-124A_S110","Fecal",NA,"Fecal",NA,"A","124","2","1","A","AB","124A","","",NA,"Start_RWA"," 1"
+"HFTR.TE.RS10_S200","HFTR-RS10_S200","Meat Rinsate","Sirloin","Sirloin","RWA","10",NA,"2","2",NA,NA,"RS10","","","RWA Beef",NA,NA
+"HFTF.TE.132A_S145","HFTF-132A_S145","Fecal",NA,"Fecal",NA,"A","132","2","1","B","BA","132A","","",NA,"Start_CONV"," 1"
+"HFTR.TE.CT15_S218","HFTR-CT15_S218","Meat Rinsate","Sirloin","Tloin","Conventional","15",NA,"2","2",NA,NA,"CT15","","","Conventional Beef",NA,NA
+"HFTF.TE.113C_S63","HFTF-113C_S63","Fecal",NA,"Fecal",NA,"C","113","2","1","B","BA","113C","Control","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.105A_S26","HFTF-105A_S26","Fecal",NA,"Fecal",NA,"A","105","2","1","A","AB","105A","","",NA,"Start_RWA"," 1"
+"HFTR.TE.RS9_S196","HFTR-RS9_S196","Meat Rinsate","Sirloin","Sirloin","RWA","9",NA,"2","2",NA,NA,"RS9","","","RWA Beef",NA,NA
+"HFTF.TE.123C_S105","HFTF-123C_S105","Fecal",NA,"Fecal",NA,"C","123","2","1","B","BA","123C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.111B_S55","HFTF-111B_S55","Fecal",NA,"Fecal",NA,"B","111","2","1","B","BA","111B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.106A_S33","HFTF-106A_S33","Fecal",NA,"Fecal",NA,"A","106","2","1","B","BA","106A","Shared","Shared_2",NA,"Start_CONV"," 1"
+"HFTR.TE.RS5_S180","HFTR-RS5_S180","Meat Rinsate","Sirloin","Sirloin","RWA","5",NA,"2","1",NA,NA,"RS5","","","RWA Beef",NA,NA
+"HFTF.TE.124G_S116","HFTF-124G_S116","Fecal",NA,"Fecal",NA,"G","124","2","2","B","AB","124G","","",NA,"Final_washout"," 4"
+"HFTF.TE.104C_S21","HFTF-104C_S21","Fecal",NA,"Fecal",NA,"C","104","2","1","A","AB","104C","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.108G_S46","HFTF-108G_S46","Fecal",NA,"Fecal",NA,"G","108","2","2","B","AB","108G","Control","",NA,"Final_washout"," 4"
+"HFTF.TE.123E_S107","HFTF-123E_S107","Fecal",NA,"Fecal",NA,"E","123","2","2","A","BA","123E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTR.TE.RG4_S177","HFTR-RG4_S177","Meat Rinsate","Ground Beef","Ground Beef","RWA","4",NA,"2","1",NA,NA,"RG4","","","RWA Beef",NA,NA
+"HFTF.TE.122C_S98","HFTF-122C_S98","Fecal",NA,"Fecal",NA,"C","122","2","1","A","AB","122C","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.132F_S150","HFTF-132F_S150","Fecal",NA,"Fecal",NA,"F","132","2","2","A","BA","132F","","","RWA Fecal","End_RWA"," 3"
+"HFTR.TE.CG15_S220","HFTR-CG15_S220","Meat Rinsate","Ground Beef","Ground Beef","Conventional","15",NA,"2","2",NA,NA,"CG15","","","Conventional Beef",NA,NA
+"HFTF.TE.128E_S128","HFTF-128E_S128","Fecal",NA,"Fecal",NA,"E","128","2","2","A","BA","128E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.104F_S24","HFTF-104F_S24","Fecal",NA,"Fecal",NA,"F","104","2","2","B","AB","104F","","","Conventional Fecal","End_CONV"," 3"
+"HFTR.TE.CS9_S194","HFTR-CS9_S194","Meat Rinsate","Sirloin","Sirloin","Conventional","9",NA,"2","2",NA,NA,"CS9","","","Conventional Beef",NA,NA
+"HFTR.TE.RG12_S207","HFTR-RG12_S207","Meat Rinsate","Ground Beef","Ground Beef","RWA","12",NA,"2","2",NA,NA,"RG12","","","RWA Beef",NA,NA
+"HFTR.TE.CG2_S167","HFTR-CG2_S167","Meat Rinsate","Ground Beef","Ground Beef","Conventional","2",NA,"2","1",NA,NA,"CG2","","","Conventional Beef",NA,NA
+"HFTR.TE.RS4_S176","HFTR-RS4_S176","Meat Rinsate","Sirloin","Sirloin","RWA","4",NA,"2","1",NA,NA,"RS4","","","RWA Beef",NA,NA
+"HFTF.TE.128C_S126","HFTF-128C_S126","Fecal",NA,"Fecal",NA,"C","128","2","1","B","BA","128C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.121D_S92","HFTF-121D_S92","Fecal",NA,"Fecal",NA,"D","121","2","3","D","BA","121D","","",NA,"Start_RWA"," 1"
+"HFTF.TE.110A_S47","HFTF-110A_S47","Fecal",NA,"Fecal",NA,"A","110","2","1","B","BA","110A","Control","",NA,"Start_CONV"," 1"
+"HFTF.TE.111E_S58","HFTF-111E_S58","Fecal",NA,"Fecal",NA,"E","111","2","2","A","BA","111E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTR.TE.RS8_S192","HFTR-RS8_S192","Meat Rinsate","Sirloin","Sirloin","RWA","8",NA,"2","1",NA,NA,"RS8","","","RWA Beef",NA,NA
+"HFTF.TE.106G_S39","HFTF-106G_S39","Fecal",NA,"Fecal",NA,"G","106","2","2","A","BA","106G","","",NA,"Final_washout"," 4"
+"HFTR.TE.CS3_S170","HFTR-CS3_S170","Meat Rinsate","Sirloin","Sirloin","Conventional","3",NA,"2","1",NA,NA,"CS3","","","Conventional Beef",NA,NA
+"HFTR.TE.RG7_S189","HFTR-RG7_S189","Meat Rinsate","Ground Beef","Ground Beef","RWA","7",NA,"2","1",NA,NA,"RG7","","","RWA Beef",NA,NA
+"HFTF.TE.129E_S135","HFTF-129E_S135","Fecal",NA,"Fecal",NA,"E","129","2","2","A","BA","129E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.114A_S65","HFTF-114A_S65","Fecal",NA,"Fecal",NA,"A","114","2","1","B","BA","114A","Control","",NA,"Start_CONV"," 1"
+"HFTR.TE.CG3_S171","HFTR-CG3_S171","Meat Rinsate","Ground Beef","Ground Beef","Conventional","3",NA,"2","1",NA,NA,"CG3","","","Conventional Beef",NA,NA
+"HFTF.TE.124D_S113","HFTF-124D_S113","Fecal",NA,"Fecal",NA,"D","124","2","3","D","AB","124D","","",NA,"Start_CONV"," 1"
+"HFTF.TE.124F_S115","HFTF-124F_S115","Fecal",NA,"Fecal",NA,"F","124","2","2","B","AB","124F","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.130C_S140","HFTF-130C_S140","Fecal",NA,"Fecal",NA,"C","130","2","1","B","BA","130C","Control","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.114B_S66","HFTF-114B_S66","Fecal",NA,"Fecal",NA,"B","114","2","1","B","BA","114B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.103C_S14","HFTF-103C_S14","Fecal",NA,"Fecal",NA,"C","103","2","1","A","AB","103C","Shared","Shared_2","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.103F_S17","HFTF-103F_S17","Fecal",NA,"Fecal",NA,"F","103","2","2","B","AB","103F","Shared","Shared_2","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.123F_S108","HFTF-123F_S108","Fecal",NA,"Fecal",NA,"F","123","2","2","A","BA","123F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.128F_S129","HFTF-128F_S129","Fecal",NA,"Fecal",NA,"F","128","2","2","A","BA","128F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.108E_S44","HFTF-108E_S44","Fecal",NA,"Fecal",NA,"E","108","2","3","D","AB","108E","Control","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.128G_S130","HFTF-128G_S130","Fecal",NA,"Fecal",NA,"G","128","2","2","A","BA","128G","","",NA,"Final_washout"," 4"
+"HFTF.TE.126G_S123","HFTF-126G_S123","Fecal",NA,"Fecal",NA,"G","126","2","2","B","AB","126G","","",NA,"Final_washout"," 4"
+"HFTF.TE.121C_S91","HFTF-121C_S91","Fecal",NA,"Fecal",NA,"C","121","2","1","B","BA","121C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.106B_S34","HFTF-106B_S34","Fecal",NA,"Fecal",NA,"B","106","2","1","B","BA","106B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTR.TE.CT12_S206","HFTR-CT12_S206","Meat Rinsate","Sirloin","Tloin","Conventional","12",NA,"2","2",NA,NA,"CT12","","","Conventional Beef",NA,NA
+"HFTF.TE.114F_S70","HFTF-114F_S70","Fecal",NA,"Fecal",NA,"F","114","2","2","A","BA","114F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.108C_S42","HFTF-108C_S42","Fecal",NA,"Fecal",NA,"C","108","2","1","A","AB","108C","Control","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.105D_S29","HFTF-105D_S29","Fecal",NA,"Fecal",NA,"D","105","2","3","D","AB","105D","Shared","Shared_2",NA,"Start_CONV"," 1"
+"HFTF.TE.122G_S102","HFTF-122G_S102","Fecal",NA,"Fecal",NA,"G","122","2","2","B","AB","122G","","",NA,"Final_washout"," 4"
+"HFTF.TE.132C_S147","HFTF-132C_S147","Fecal",NA,"Fecal",NA,"C","132","2","1","B","BA","132C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.111A_S54","HFTF-111A_S54","Fecal",NA,"Fecal",NA,"A","111","2","1","B","BA","111A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.106E_S37","HFTF-106E_S37","Fecal",NA,"Fecal",NA,"E","106","2","2","A","BA","106E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTR.TE.CS10_S198","HFTR-CS10_S198","Meat Rinsate","Sirloin","Sirloin","Conventional","10",NA,"2","2",NA,NA,"CS10","","","Conventional Beef",NA,NA
+"HFTF.TE.133A_S152","HFTF-133A_S152","Fecal",NA,"Fecal",NA,"A","133","2","1","B","BA","133A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.104G_S25","HFTF-104G_S25","Fecal",NA,"Fecal",NA,"G","104","2","2","B","AB","104G","","",NA,"Final_washout"," 4"
+"HFTR.TE.RG5_S181","HFTR-RG5_S181","Meat Rinsate","Ground Beef","Ground Beef","RWA","5",NA,"2","1",NA,NA,"RG5","","","RWA Beef",NA,NA
+"HFTF.TE.115B_S73","HFTF-115B_S73","Fecal",NA,"Fecal",NA,"B","115","2","1","B","BA","115B","Control","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTR.TE.CG4_S175","HFTR-CG4_S175","Meat Rinsate","Ground Beef","Ground Beef","Conventional","4",NA,"2","1",NA,NA,"CG4","","","Conventional Beef",NA,NA
+"HFTF.TE.128D_S127","HFTF-128D_S127","Fecal",NA,"Fecal",NA,"D","128","2","3","D","BA","128D","","",NA,"Start_RWA"," 1"
+"HFTF.TE.130E_S142","HFTF-130E_S142","Fecal",NA,"Fecal",NA,"E","130","2","2","A","BA","130E","Control","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTR.TE.RS11_S204","HFTR-RS11_S204","Meat Rinsate","Sirloin","Sirloin","RWA","11",NA,"2","2",NA,NA,"RS11","","","RWA Beef",NA,NA
+"HFTR.TE.RT15_S221","HFTR-RT15_S221","Meat Rinsate","Sirloin","Tloin","RWA","15",NA,"2","2",NA,NA,"RT15","","","RWA Beef",NA,NA
+"HFTF.TE.108F_S45","HFTF-108F_S45","Fecal",NA,"Fecal",NA,"F","108","2","2","B","AB","108F","Control","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.118A_S79","HFTF-118A_S79","Fecal",NA,"Fecal",NA,"A","118","2","1","B","BA","118A","Shared","Shared_1",NA,"Start_CONV"," 1"
+"HFTR.TE.CG14_S216","HFTR-CG14_S216","Meat Rinsate","Ground Beef","Ground Beef","Conventional","14",NA,"2","2",NA,NA,"CG14","","","Conventional Beef",NA,NA
+"HFTF.TE.102B_S6","HFTF-102B_S6","Fecal",NA,"Fecal",NA,"B","102","2","1","A","AB","102B","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.126D_S120","HFTF-126D_S120","Fecal",NA,"Fecal",NA,"D","126","2","3","D","AB","126D","","",NA,"Start_CONV"," 1"
+"HFTF.TE.118C_S81","HFTF-118C_S81","Fecal",NA,"Fecal",NA,"C","118","2","1","B","BA","118C","Shared","Shared_1","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.120F_S87","HFTF-120F_S87","Fecal",NA,"Fecal",NA,"F","120","2","2","A","BA","120F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.132D_S148","HFTF-132D_S148","Fecal",NA,"Fecal",NA,"D","132","2","3","D","BA","132D","","",NA,"Start_RWA"," 1"
+"HFTR.TE.RG15_S219","HFTR-RG15_S219","Meat Rinsate","Ground Beef","Ground Beef","RWA","15",NA,"2","2",NA,NA,"RG15","","","RWA Beef",NA,NA
+"HFTR.TE.RS1_S164","HFTR-RS1_S164","Meat Rinsate","Sirloin","Sirloin","RWA","1",NA,"2","1",NA,NA,"RS1","","","RWA Beef",NA,NA
+"HFTF.TE.115C_S74","HFTF-115C_S74","Fecal",NA,"Fecal",NA,"C","115","2","1","B","BA","115C","Control","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.121A_S89","HFTF-121A_S89","Fecal",NA,"Fecal",NA,"A","121","2","1","B","BA","121A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.108B_S41","HFTF-108B_S41","Fecal",NA,"Fecal",NA,"B","108","2","1","A","AB","108B","Control","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.114G_S71","HFTF-114G_S71","Fecal",NA,"Fecal",NA,"G","114","2","2","A","BA","114G","","",NA,"Final_washout"," 4"
+"HFTF.TE.104B_S20","HFTF-104B_S20","Fecal",NA,"Fecal",NA,"B","104","2","1","A","AB","104B","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.122E_S100","HFTF-122E_S100","Fecal",NA,"Fecal",NA,"E","122","2","2","B","AB","122E","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.105C_S28","HFTF-105C_S28","Fecal",NA,"Fecal",NA,"C","105","2","1","A","AB","105C","Shared","Shared_2","RWA Fecal","End_RWA"," 3"
+"HFTR.TE.RG6_S185","HFTR-RG6_S185","Meat Rinsate","Ground Beef","Ground Beef","RWA","6",NA,"2","1",NA,NA,"RG6","","","RWA Beef",NA,NA
+"HFTF.TE.103D_S15","HFTF-103D_S15","Fecal",NA,"Fecal",NA,"D","103","2","3","D","AB","103D","Shared","Shared_2",NA,"Start_CONV"," 1"
+"HFTF.TE.126F_S122","HFTF-126F_S122","Fecal",NA,"Fecal",NA,"F","126","2","2","B","AB","126F","","","Conventional Fecal","End_CONV"," 3"
+"HFTR.TE.CG6_S183","HFTR-CG6_S183","Meat Rinsate","Ground Beef","Ground Beef","Conventional","6",NA,"2","1",NA,NA,"CG6","","","Conventional Beef",NA,NA
+"HFTR.TE.RG2_S169","HFTR-RG2_S169","Meat Rinsate","Ground Beef","Ground Beef","RWA","2",NA,"2","1",NA,NA,"RG2","","","RWA Beef",NA,NA
+"HFTF.TE.104D_S22","HFTF-104D_S22","Fecal",NA,"Fecal",NA,"D","104","2","3","D","AB","104D","","",NA,"Start_CONV"," 1"
+"HFTR.TE.RG3_S173","HFTR-RG3_S173","Meat Rinsate","Ground Beef","Ground Beef","RWA","3",NA,"2","1",NA,NA,"RG3","","","RWA Beef",NA,NA
+"HFTF.TE.106C_S35","HFTF-106C_S35","Fecal",NA,"Fecal",NA,"C","106","2","1","B","BA","106C","","","Conventional Fecal","End_CONV"," 3"
+"HFTR.TE.CS6_S182","HFTR-CS6_S182","Meat Rinsate","Sirloin","Sirloin","Conventional","6",NA,"2","1",NA,NA,"CS6","","","Conventional Beef",NA,NA
+"HFTR.TE.CS4_S174","HFTR-CS4_S174","Meat Rinsate","Sirloin","Sirloin","Conventional","4",NA,"2","1",NA,NA,"CS4","","","Conventional Beef",NA,NA
+"HFTF.TE.103E_S16","HFTF-103E_S16","Fecal",NA,"Fecal",NA,"E","103","2","2","B","AB","103E","Shared","Shared_2","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.129B_S132","HFTF-129B_S132","Fecal",NA,"Fecal",NA,"B","129","2","1","B","BA","129B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.105F_S31","HFTF-105F_S31","Fecal",NA,"Fecal",NA,"F","105","2","2","B","AB","105F","Shared","Shared_2","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.126E_S121","HFTF-126E_S121","Fecal",NA,"Fecal",NA,"E","126","2","2","B","AB","126E","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.117B_S77","HFTF-117B_S77","Fecal",NA,"Fecal",NA,"B","117","2","1","A","AB","117B","Shared","Shared_1","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.103A_S12","HFTF-103A_S12","Fecal",NA,"Fecal",NA,"A","103","2","1","A","AB","103A","","",NA,"Start_RWA"," 1"
+"HFTF.TE.121B_S90","HFTF-121B_S90","Fecal",NA,"Fecal",NA,"B","121","2","1","B","BA","121B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.124C_S112","HFTF-124C_S112","Fecal",NA,"Fecal",NA,"C","124","2","1","A","AB","124C","","","RWA Fecal","End_RWA"," 3"
+"HFTR.TE.RS6_S184","HFTR-RS6_S184","Meat Rinsate","Sirloin","Sirloin","RWA","6",NA,"2","1",NA,NA,"RS6","","","RWA Beef",NA,NA
+"HFTF.TE.121E_S93","HFTF-121E_S93","Fecal",NA,"Fecal",NA,"E","121","2","2","A","BA","121E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.102F_S10","HFTF-102F_S10","Fecal",NA,"Fecal",NA,"F","102","2","2","B","AB","102F","","","Conventional Fecal","End_CONV"," 3"
+"HFTR.TE.RT14_S217","HFTR-RT14_S217","Meat Rinsate","Sirloin","Tloin","RWA","14",NA,"2","2",NA,NA,"RT14","","","RWA Beef",NA,NA
+"HFTF.TE.118B_S80","HFTF-118B_S80","Fecal",NA,"Fecal",NA,"B","118","2","1","B","BA","118B","Shared","Shared_1","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.110D_S50","HFTF-110D_S50","Fecal",NA,"Fecal",NA,"D","110","2","3","D","BA","110D","","",NA,"Start_RWA"," 1"
+"HFTF.TE.120E_S86","HFTF-120E_S86","Fecal",NA,"Fecal",NA,"E","120","2","2","A","BA","120E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.124B_S111","HFTF-124B_S111","Fecal",NA,"Fecal",NA,"B","124","2","1","A","AB","124B","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.130G_S144","HFTF-130G_S144","Fecal",NA,"Fecal",NA,"G","130","2","2","A","BA","130G","Control","",NA,"Final_washout"," 4"
+"HFTF.TE.126C_S119","HFTF-126C_S119","Fecal",NA,"Fecal",NA,"C","126","2","1","A","AB","126C","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.111G_S60","HFTF-111G_S60","Fecal",NA,"Fecal",NA,"G","111","2","2","A","BA","111G","","",NA,"Final_washout"," 4"
+"HFTF.TE.133B_S153","HFTF-133B_S153","Fecal",NA,"Fecal",NA,"B","133","2","1","B","BA","133B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.115D_S75","HFTF-115D_S75","Fecal",NA,"Fecal",NA,"D","115","2","3","D","BA","115D","Control","",NA,"Start_RWA"," 1"
+"HFTF.TE.117A_S76","HFTF-117A_S76","Fecal",NA,"Fecal",NA,"A","117","2","1","A","AB","117A","Control","",NA,"Start_RWA"," 1"
+"HFTF.TE.120B_S83","HFTF-120B_S83","Fecal",NA,"Fecal",NA,"B","120","2","1","B","BA","120B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.123B_S104","HFTF-123B_S104","Fecal",NA,"Fecal",NA,"B","123","2","1","B","BA","123B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.133F_S157","HFTF-133F_S157","Fecal",NA,"Fecal",NA,"F","133","2","2","A","BA","133F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.114E_S69","HFTF-114E_S69","Fecal",NA,"Fecal",NA,"E","114","2","2","A","BA","114E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.111F_S59","HFTF-111F_S59","Fecal",NA,"Fecal",NA,"F","111","2","2","A","BA","111F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.103G_S18","HFTF-103G_S18","Fecal",NA,"Fecal",NA,"G","103","2","2","B","AB","103G","Shared","Shared_2",NA,"Final_washout"," 4"
+"HFTR.TE.CS5_S178","HFTR-CS5_S178","Meat Rinsate","Sirloin","Sirloin","Conventional","5",NA,"2","1",NA,NA,"CS5","","","Conventional Beef",NA,NA
+"HFTF.TE.133E_S156","HFTF-133E_S156","Fecal",NA,"Fecal",NA,"E","133","2","2","A","BA","133E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.126B_S118","HFTF-126B_S118","Fecal",NA,"Fecal",NA,"B","126","2","1","A","AB","126B","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTR.TE.RS2_S168","HFTR-RS2_S168","Meat Rinsate","Sirloin","Sirloin","RWA","2",NA,"2","1",NA,NA,"RS2","","","RWA Beef",NA,NA
+"HFTR.TE.CG11_S203","HFTR-CG11_S203","Meat Rinsate","Ground Beef","Ground Beef","Conventional","11",NA,"2","2",NA,NA,"CG11","","","Conventional Beef",NA,NA
+"HFTF.TE.104E_S23","HFTF-104E_S23","Fecal",NA,"Fecal",NA,"E","104","2","2","B","AB","104E","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.106F_S38","HFTF-106F_S38","Fecal",NA,"Fecal",NA,"F","106","2","2","A","BA","106F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.130A_S138","HFTF-130A_S138","Fecal",NA,"Fecal",NA,"A","130","2","1","B","BA","130A","Control","",NA,"Start_CONV"," 1"
+"HFTF.TE.129G_S137","HFTF-129G_S137","Fecal",NA,"Fecal",NA,"G","129","2","2","A","BA","129G","","",NA,"Final_washout"," 4"
+"HFTF.TE.123D_S106","HFTF-123D_S106","Fecal",NA,"Fecal",NA,"D","123","2","3","D","BA","123D","","",NA,"Start_RWA"," 1"
+"HFTR.TE.CS8_S190","HFTR-CS8_S190","Meat Rinsate","Sirloin","Sirloin","Conventional","8",NA,"2","1",NA,NA,"CS8","","","Conventional Beef",NA,NA
+"HFTF.TE.104A_S19","HFTF-104A_S19","Fecal",NA,"Fecal",NA,"A","104","2","1","A","AB","104A","Shared","Shared_2",NA,"Start_RWA"," 1"
+"HFTF.TE.135B_S160","HFTF-135B_S160","Fecal",NA,"Fecal",NA,"B","135","2","1","A","AB","135B","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTR.TE.CG7_S187","HFTR-CG7_S187","Meat Rinsate","Ground Beef","Ground Beef","Conventional","7",NA,"2","1",NA,NA,"CG7","","","Conventional Beef",NA,NA
+"HFTR.TE.RG9_S197","HFTR-RG9_S197","Meat Rinsate","Ground Beef","Ground Beef","RWA","9",NA,"2","2",NA,NA,"RG9","","","RWA Beef",NA,NA
+"HFTF.TE.128B_S125","HFTF-128B_S125","Fecal",NA,"Fecal",NA,"B","128","2","1","B","BA","128B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.132B_S146","HFTF-132B_S146","Fecal",NA,"Fecal",NA,"B","132","2","1","B","BA","132B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.123G_S109","HFTF-123G_S109","Fecal",NA,"Fecal",NA,"G","123","2","2","A","BA","123G","","",NA,"Final_washout"," 4"
+"HFTF.TE.110E_S51","HFTF-110E_S51","Fecal",NA,"Fecal",NA,"E","110","2","2","A","BA","110E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.102E_S9","HFTF-102E_S9","Fecal",NA,"Fecal",NA,"E","102","2","2","B","AB","102E","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.120D_S85","HFTF-120D_S85","Fecal",NA,"Fecal",NA,"D","120","2","3","D","BA","120D","","",NA,"Start_RWA"," 1"
+"HFTF.TE.111C_S56","HFTF-111C_S56","Fecal",NA,"Fecal",NA,"C","111","2","1","B","BA","111C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.113D_S64","HFTF-113D_S64","Fecal",NA,"Fecal",NA,"D","113","2","3","D","BA","113D","Control","",NA,"Start_RWA"," 1"
+"HFTF.TE.106D_S36","HFTF-106D_S36","Fecal",NA,"Fecal",NA,"D","106","2","3","D","BA","106D","","",NA,"Start_RWA"," 1"
+"HFTR.TE.CS1_S162","HFTR-CS1_S162","Meat Rinsate","Sirloin","Sirloin","Conventional","1",NA,"2","1",NA,NA,"CS1","","","Conventional Beef",NA,NA
+"HFTR.TE.CS2_S166","HFTR-CS2_S166","Meat Rinsate","Sirloin","Sirloin","Conventional","2",NA,"2","1",NA,NA,"CS2","","","Conventional Beef",NA,NA
+"HFTR.TE.RG8_S193","HFTR-RG8_S193","Meat Rinsate","Ground Beef","Ground Beef","RWA","8",NA,"2","1",NA,NA,"RG8","","","RWA Beef",NA,NA
+"HFTF.TE.123A_S103","HFTF-123A_S103","Fecal",NA,"Fecal",NA,"A","123","2","1","B","BA","123A","","",NA,"Start_CONV"," 1"
+"HFTR.TE.CS11_S202","HFTR-CS11_S202","Meat Rinsate","Sirloin","Sirloin","Conventional","11",NA,"2","2",NA,NA,"CS11","","","Conventional Beef",NA,NA
+"HFTF.TE.129F_S136","HFTF-129F_S136","Fecal",NA,"Fecal",NA,"F","129","2","2","A","BA","129F","","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.133D_S155","HFTF-133D_S155","Fecal",NA,"Fecal",NA,"D","133","2","3","D","BA","133D","","",NA,"Start_RWA"," 1"
+"HFTF.TE.103B_S13","HFTF-103B_S13","Fecal",NA,"Fecal",NA,"B","103","2","1","A","AB","103B","Shared","Shared_2","RWA Fecal","Midpoint_RWA"," 2"
+"HFTF.TE.102G_S11","HFTF-102G_S11","Fecal",NA,"Fecal",NA,"G","102","2","2","B","AB","102G","","",NA,"Final_washout"," 4"
+"HFTF.TE.128A_S124","HFTF-128A_S124","Fecal",NA,"Fecal",NA,"A","128","2","1","B","BA","128A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.114C_S67","HFTF-114C_S67","Fecal",NA,"Fecal",NA,"C","114","2","1","B","BA","114C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.115A_S72","HFTF-115A_S72","Fecal",NA,"Fecal",NA,"A","115","2","1","B","BA","115A","","",NA,"Start_CONV"," 1"
+"HFTF.TE.111D_S57","HFTF-111D_S57","Fecal",NA,"Fecal",NA,"D","111","2","3","D","BA","111D","","",NA,"Start_RWA"," 1"
+"HFTR.TE.CT16_S222","HFTR-CT16_S222","Meat Rinsate","Sirloin","Tloin","Conventional","16",NA,"2","2",NA,NA,"CT16","","","Conventional Beef",NA,NA
+"HFTF.TE.110B_S48","HFTF-110B_S48","Fecal",NA,"Fecal",NA,"B","110","2","1","B","BA","110B","","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.120G_S88","HFTF-120G_S88","Fecal",NA,"Fecal",NA,"G","120","2","2","A","BA","120G","","",NA,"Final_washout"," 4"
+"HFTR.TE.RG10_S201","HFTR-RG10_S201","Meat Rinsate","Ground Beef","Ground Beef","RWA","10",NA,"2","2",NA,NA,"RG10","","","RWA Beef",NA,NA
+"HFTF.TE.105E_S30","HFTF-105E_S30","Fecal",NA,"Fecal",NA,"E","105","2","2","B","AB","105E","Shared","Shared_2","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTF.TE.132E_S149","HFTF-132E_S149","Fecal",NA,"Fecal",NA,"E","132","2","2","A","BA","132E","","","RWA Fecal","Midpoint_RWA"," 2"
+"HFTR.TE.CG9_S195","HFTR-CG9_S195","Meat Rinsate","Ground Beef","Ground Beef","Conventional","9",NA,"2","2",NA,NA,"CG9","","","Conventional Beef",NA,NA
+"HFTF.TE.110C_S49","HFTF-110C_S49","Fecal",NA,"Fecal",NA,"C","110","2","1","B","BA","110C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.126A_S117","HFTF-126A_S117","Fecal",NA,"Fecal",NA,"A","126","2","1","A","AB","126A","","",NA,"Start_RWA"," 1"
+"HFTF.TE.130B_S139","HFTF-130B_S139","Fecal",NA,"Fecal",NA,"B","130","2","1","B","BA","130B","Control","","Conventional Fecal","Midpoint_CONV"," 2"
+"HFTR.TE.CG10_S199","HFTR-CG10_S199","Meat Rinsate","Ground Beef","Ground Beef","Conventional","10",NA,"2","2",NA,NA,"CG10","","","Conventional Beef",NA,NA
+"HFTF.TE.135C_S161","HFTF-135C_S161","Fecal",NA,"Fecal",NA,"C","135","2","1","A","AB","135C","","","RWA Fecal","End_RWA"," 3"
+"HFTR.TE.CT13_S210","HFTR-CT13_S210","Meat Rinsate","Sirloin","Tloin","Conventional","13",NA,"2","2",NA,NA,"CT13","","","Conventional Beef",NA,NA
+"HFTF.TE.129C_S133","HFTF-129C_S133","Fecal",NA,"Fecal",NA,"C","129","2","1","B","BA","129C","","","Conventional Fecal","End_CONV"," 3"
+"HFTF.TE.130F_S143","HFTF-130F_S143","Fecal",NA,"Fecal",NA,"F","130","2","2","A","BA","130F","Control","","RWA Fecal","End_RWA"," 3"
+"HFTF.TE.135A_S159","HFTF-135A_S159","Fecal",NA,"Fecal",NA,"A","135","2","1","A","AB","135A","","",NA,"Start_RWA"," 1"
+"HFTF.TE.133G_S158","HFTF-133G_S158","Fecal",NA,"Fecal",NA,"G","133","2","2","A","BA","133G","","",NA,"Final_washout"," 4"
