@@ -167,3 +167,18 @@ done
 # Build database
 kraken2-build --build --db /scratch/group/vero_research/databases/kraken2/Pasteurellaceae_Mh_PSV_db
 ```
+
+
+
+## Step 6 - Benchmarking
+
+The next step is to perform benchmarking by systematically subsampling 20% of the Mh genomes, creating short reads out of those sequences, and classifying them with a database made from the remaining 80% of Mh genomes using incremental "confidence" values and determine the sensitivity and specificity.
+
+### Create list of commands
+
+```
+python make_genome_subsets.py
+
+```
+
+### Parse output and graph results

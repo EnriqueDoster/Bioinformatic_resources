@@ -4,6 +4,8 @@ import argparse
 from Bio import SeqIO
 import gzip
 
+#python make_genome_reads.py INPUT_FILE 150 OUTPUT_FILE
+
 def extract_segments(genome_file, segment_length, output_file):
     # Determine if the file is gzipped
     open_func = gzip.open if genome_file.endswith('.gz') else open

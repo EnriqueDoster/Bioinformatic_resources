@@ -87,10 +87,9 @@ For large projects, you might have to run a sbatch script. Here's an example of 
 
 ```
 #!/bin/bash
-#SBATCH -J dl_fastq -o log_dl_fastq.out -t 12:00:00 -p knl --nodes=1 --ntasks=8 --cpus-per-task=4 --mem=30G
+#SBATCH -J dl_samples -o log_dl.out -t 12:00:00 --mem-per-cpu=4G --nodes=1 --ntasks=1 --cpus-per-task=4 --ntasks-per-node=1
 
-export http_proxy=http://10.76.5.24:8080
-export https_proxy=http://10.76.5.24:8080
+module load WebProxy
 
 source activate AMR++_env
 
@@ -98,13 +97,12 @@ bs download project -i 406676330 --extension=fastq.gz -o reads
 ```
 
 
-This will take a couple of mins to start download, but when it does you will see it working in your terminal. Once it finishes download, I clean up the output. It will put the R1 and R2 files for each sample in the project into a separate sub-directory within reads/. I agglomerate all my reads into one directory (reads/), then remove all the empty subdirectories. This is happening in the project directory (20230215_Bovine_LA_16S):
+This will take a couple of minutes to start download, but when it does you will see it working in your terminal. Once it finishes download, I clean up the output. It will put the R1 and R2 files for each sample in the project into a separate sub-directory within reads/. I agglomerate all my reads into one directory (reads/), then remove all the empty subdirectories. This is happening in the project directory (20230215_Bovine_LA_16S):
 
 ```
 # move all my fastq.gz files into the reads directory, then remove the now empty sub-directories
 mv reads/*/*.fastq.gz reads/
-cd reads
-rmdir *
+rmdir reads/*
 ```
 
 You’ll get a ton of warnings says all the fastq.gz files aren’t directories. Ignore it! Now you should have all your fastq.gz files and one .json file in your [PROJECTID]/reads/ directory. 
