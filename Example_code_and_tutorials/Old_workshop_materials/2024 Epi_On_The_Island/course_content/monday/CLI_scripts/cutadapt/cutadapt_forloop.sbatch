@@ -1,0 +1,53 @@
+#!/bin/bash
+#SBATCH -J cutadapt -t 01:00:00 -n 1 --cpus-per-task=12 -o cutadapt_primer_trimming_stats.txt 
+
+#### for loop for running cutadapt
+# list of sample IDs
+samples=(H2O_1_S109
+Mock1_S166
+R0011_S152
+R0012_S90
+R0013_S161
+R0014_S191
+R0015_S123
+R0016_S106
+R0030_S141
+R0031_S133
+R0032_S124
+R0035_S102
+R0036_S139
+R0038_S172
+R0070_S122
+R0071_S170
+R0072_S132
+R0074_S171
+R0077_S184
+R0078_S181
+R0079_S101
+R0110_S130
+R0111_S169
+R0112_S163
+R0113_S150
+R0114_S128
+R0115_S100
+R0116_S165
+R0117_S180
+R0118_S174
+R0119_S147
+R0130_S143
+R0131_S126
+R0132_S105
+R0133_S110
+R0134_S117
+R0135_S167
+R0136_S146
+R0137_S99
+R0138_S91
+R0139_S188)
+
+# cutadapt on all samples in above list
+for s in ${samples[@]};
+do
+     cutadapt -a ^GTGCCAGCMGCCGCGGTAA...ATTAGAWACCCBDGTAGTCC -A ^GGACTACHVGGGTWTCTAAT...TTACCGCGGCKGCTGGCAC -j 12 -o ${s}_R1_001_trimmed.fastq.gz -p ${s}_R2_001_trimmed.fastq.gz ../reads/${s}_R1_001_sub.fastq.gz ../reads/${s}_R2_001_sub.fastq.gz -m 1;
+
+done 
